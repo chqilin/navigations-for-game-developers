@@ -14,7 +14,7 @@ A navigation page for game developers.
 * 3D Game Engine Programming [https://www.3dgep.com](https://www.3dgep.com)
 
 ## Game AI
-* Game AI Pro: All book chapters are free to download [All book chapters are free to download.](All book chapters are free to download.)
+* Game AI Pro: All book chapters are free to download [http://www.gameaipro.com/](http://www.gameaipro.com/)
 
 ## Assets Libraries
 * Unreal Marketplace [https://www.unrealengine.com/marketplace/zh-CN/store](https://www.unrealengine.com/marketplace/zh-CN/store)
