@@ -13,6 +13,9 @@ A navigation page for game developers.
 * LearnOpenGL CN [https://learnopengl-cn.github.io](https://learnopengl-cn.github.io)
 * 3D Game Engine Programming [https://www.3dgep.com](https://www.3dgep.com)
 
+## Game AI
+* Game AI Pro: All book chapters are free to download [All book chapters are free to download.](All book chapters are free to download.)
+
 ## Assets Libraries
 * Unreal Marketplace [https://www.unrealengine.com/marketplace/zh-CN/store](https://www.unrealengine.com/marketplace/zh-CN/store)
 * Unity Asset Store [https://assetstore.unity.com/](https://assetstore.unity.com/)
