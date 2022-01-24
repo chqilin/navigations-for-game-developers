@@ -12,6 +12,7 @@ A navigation page for game developers.
 * fractals, computer graphics, mathematics, shaders, demoscene and more [https://www.iquilezles.org/www/index.htm](https://www.iquilezles.org/www/index.htm)
 * LearnOpenGL CN [https://learnopengl-cn.github.io](https://learnopengl-cn.github.io)
 * 3D Game Engine Programming [https://www.3dgep.com](https://www.3dgep.com)
+* Inigo Quilez's Articles: Articles on computer graphics, math and art [https://www.iquilezles.org/www/index.htm](https://www.iquilezles.org/www/index.htm)
 
 ## Game AI
 * Game AI Pro: All book chapters are free to download [http://www.gameaipro.com/](http://www.gameaipro.com/)
