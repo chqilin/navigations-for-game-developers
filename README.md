@@ -1,4 +1,4 @@
-# Navigation for Game Developers
+# Navigations for Game Developers
 A navigation page for game developers.
 
 ## Mathatics
