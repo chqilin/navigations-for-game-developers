@@ -21,6 +21,9 @@ A navigation page for game developers.
 ## Game AI
 * Game AI Pro: All book chapters are free to download [http://www.gameaipro.com/](http://www.gameaipro.com/)
 
+## Programming Libraries
+* Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications. [https://bitbucket.org/chromiumembedded/cef/src/master/](https://bitbucket.org/chromiumembedded/cef/src/master/)
+
 ## Assets Libraries
 * Unreal Marketplace [https://www.unrealengine.com/marketplace/zh-CN/store](https://www.unrealengine.com/marketplace/zh-CN/store)
 * Unity Asset Store [https://assetstore.unity.com/](https://assetstore.unity.com/)
