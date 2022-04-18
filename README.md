@@ -22,6 +22,9 @@ A navigation page for game developers.
 * Game AI Pro: All book chapters are free to download [http://www.gameaipro.com/](http://www.gameaipro.com/)
 
 ## Programming Libraries
+* OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications. [http://glm.g-truc.net/0.9.7/index.html](http://glm.g-truc.net/0.9.7/index.html)
+* The Asset-Importer-Lib. [https://assimp-docs.readthedocs.io/en/v5.1.0/#](https://assimp-docs.readthedocs.io/en/v5.1.0/#)
+* A full featured cross-platform image library. [http://openil.sourceforge.net/](http://openil.sourceforge.net/)
 * Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications. [https://bitbucket.org/chromiumembedded/cef/src/master/](https://bitbucket.org/chromiumembedded/cef/src/master/)
 
 ## Assets Libraries
