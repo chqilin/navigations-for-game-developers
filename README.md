@@ -11,6 +11,7 @@ A navigation page for game developers.
 ## Graphics & Rendering
 * NVIDIA Developers' Blog [https://developer.nvidia.com/zh-cn/blog/](https://developer.nvidia.com/zh-cn/blog/)
 * Intel Game Developer Program [https://software.intel.com/content/www/us/en/develop/topics/gamedev.html](https://software.intel.com/content/www/us/en/develop/topics/gamedev.html)
+* Samsung Galaxy GameDev Site [https://developer.samsung.com/galaxy-gamedev](https://developer.samsung.com/galaxy-gamedev)
 * Advances in Real-Time Rendering in 3D Graphics and Games [http://advances.realtimerendering.com](http://advances.realtimerendering.com)
 * Real-Time Rendering Resources [http://www.realtimerendering.com](http://www.realtimerendering.com)
 * fractals, computer graphics, mathematics, shaders, demoscene and more [https://www.iquilezles.org/www/index.htm](https://www.iquilezles.org/www/index.htm)
