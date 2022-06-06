@@ -9,6 +9,7 @@ A navigation page for game developers.
 * PROJ: A general coordinate transformation software used to refer to another general system space coordinate from a coordinate system (CRS). [https://www.osgeo.cn/proj/about.html](https://www.osgeo.cn/proj/about.html)
 
 ## Graphics & Rendering
+* ACM Digital Library [https://dl.acm.org/](https://dl.acm.org/)
 * NVIDIA Developers' Blog [https://developer.nvidia.com/zh-cn/blog/](https://developer.nvidia.com/zh-cn/blog/)
 * Intel Game Developer Program [https://software.intel.com/content/www/us/en/develop/topics/gamedev.html](https://software.intel.com/content/www/us/en/develop/topics/gamedev.html)
 * Samsung Galaxy GameDev Site [https://developer.samsung.com/galaxy-gamedev](https://developer.samsung.com/galaxy-gamedev)
